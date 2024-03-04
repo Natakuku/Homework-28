@@ -13,12 +13,8 @@ body {
 h1 {
     margin: 30px 0;
 }
-#randomImageContainer {
-    max-width: 80%;
-    text-align: center;
-}
 
-#randomImage {
-    max-width: 100%;
+#dynamicImage {
+    max-width: 80%;
     height: auto;
 }
